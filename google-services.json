@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "773643305507",
+    "project_id": "haraj-shabaka",
+    "storage_bucket": "haraj-shabaka.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:773643305507:android:56b44840be63d13bf06796",
+        "android_client_info": {
+          "package_name": "com.shabaka.harajShabaka"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "773643305507-ac1hcvs3p5l3gpqonrohrl329ad0d2t7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDwwdVcxJo0rZRJomeXQ8hFnYG2w8xJK5M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "773643305507-ac1hcvs3p5l3gpqonrohrl329ad0d2t7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,50 @@
+{
+  "expo": {
+    "name": "مزاد الخيل",
+    "slug": "mzadelkhail",
+    "androidStatusBar": {
+      "barStyle": "light-content",
+      "backgroundColor": "#2E234D",
+      "translucent": false
+    },
+    "version": "0.0.1",
+    "orientation": "portrait",
+    "icon": "./assets/splash.png",
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true,
+      "bundleIdentifier": "com.shabaka.harajShabaka",
+      "userInterfaceStyle": "light",
+      "infoPlist": {
+        "NSCameraUsageDescription": "App need this permission to update profile photo.",
+        "NSPhotoLibraryAddUsageDescription": "App need this permission to update profile photo.",
+        "NSLocationWhenInUseUsageDescription": "App need this permission to return the nearest providers.",
+        "NSPhotoLibraryUsageDescription": "App need this permission to update profile photo."
+      }
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    },
+    "android": {
+      "package": "com.shabaka.harajShabaka",
+      "versionCode": 1,
+      "googleServicesFile": "./google-services.json",
+      "useNextNotificationsApi": true,
+      "config": {
+        "googleMaps": {
+          "apiKey": "AIzaSyBQu-aDY--uY14s4U3ok-XwwqhsnhLFe5Q"
+        }
+      }
+    }
+  }
+}
